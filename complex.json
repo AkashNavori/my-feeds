@@ -1,0 +1,33 @@
+{
+  "company": {
+    "id": "C001",
+    "name": "ABC Corp",
+    "locations": [
+      {
+        "country": "India",
+        "city": "Delhi"
+      },
+      {
+        "country": "USA",
+        "city": "New York"
+      }
+    ],
+    "departments": [
+      {
+        "id": "D001",
+        "name": "Engineering",
+        "employees": [
+          {
+            "id": "E001",
+            "name": "John",
+            "skills": [
+              "Java",
+              "Python",
+              "AWS"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
