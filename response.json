@@ -1,0 +1,17 @@
+{
+  "status": "SUCCESS",
+  "timestamp": "2026-06-25T10:00:00Z",
+  "data": {
+    "customers": [
+      {
+        "customerId": 1001,
+        "name": "John"
+      }
+    ]
+  },
+  "pagination": {
+    "page": 1,
+    "pageSize": 100,
+    "totalRecords": 500
+  }
+}
