@@ -1,0 +1,10 @@
+{
+  "employee": {
+    "id": 1001,
+    "name": "John",
+    "department": {
+      "id": 10,
+      "name": "IT"
+    }
+  }
+}
