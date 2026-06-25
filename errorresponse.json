@@ -1,0 +1,5 @@
+{
+  "status": "ERROR",
+  "errorCode": "AUTH001",
+  "message": "Invalid credentials"
+}
