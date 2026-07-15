@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<customers>
+
+    <customer>
+
+        <id>100</id>
+
+        <name>Alice</name>
+
+        <city>London</city>
+
+    </customer>
+
+    <customer>
+
+        <id>101</id>
+
+        <name>Bob</name>
+
+        <city>Paris</city>
+
+    </customer>
+
+</customers>
