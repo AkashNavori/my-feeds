@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "Java",
+      "price": 100
+    },
+    {
+      "title": "Python",
+      "price": 80
+    }
+  ]
+}
