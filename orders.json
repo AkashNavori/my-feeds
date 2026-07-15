@@ -1,0 +1,14 @@
+{
+  "orders": [
+    {
+      "id": 1001,
+      "product": "Laptop",
+      "price": 2000
+    },
+    {
+      "id": 1002,
+      "product": "Phone",
+      "price": 900
+    }
+  ]
+}
