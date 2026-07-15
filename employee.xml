@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>John Smith</name>
+        <department>IT</department>
+    </employee>
+
+    <employee>
+        <id>2</id>
+        <name>Emma Watson</name>
+        <department>HR</department>
+    </employee>
+</employees>
