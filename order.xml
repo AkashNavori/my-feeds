@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<orders>
+
+<order>
+
+<id>500</id>
+
+<customer>John</customer>
+
+<amount>100</amount>
+
+</order>
+
+<order>
+
+<id>501</id>
+
+<customer>James</customer>
+
+<amount>250</amount>
+
+</order>
+
+</orders>
