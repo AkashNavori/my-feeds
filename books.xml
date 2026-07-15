@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<books>
+
+<book>
+
+<title>Book One</title>
+
+<price>20</price>
+
+</book>
+
+<book>
+
+<title>Book Two</title>
+
+<price>25</price>
+
+</book>
+
+</books>
